@@ -1,0 +1,1 @@
+ringkasan tugas pertemuan 1: aplikasi yang diamati, target pengguna, tiga fitur, dan satu usulan perbaikan.
