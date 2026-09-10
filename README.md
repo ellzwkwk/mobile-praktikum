@@ -17,3 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Proyek Pemrograman Mobile ## Deskripsi Aplikasi latihan untuk ... ## Gabriel / akun GitHub: @ellzwkwk ## Status Proyek awal perkuliahan.
+
+# Tujuan aplikasi dan fitur yang direncanakan belum ada
